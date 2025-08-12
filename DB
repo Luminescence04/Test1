@@ -80,3 +80,6 @@ BEGIN
 END;
 /
 ALTER TABLE transaction_chat_messages ADD is_leave NUMBER(1) DEFAULT 0 NOT NULL;
+
+
+-- 사용앱 SpringToolSuite4, sqldeveloper 끝
